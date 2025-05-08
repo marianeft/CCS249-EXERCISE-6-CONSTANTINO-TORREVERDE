@@ -1,1 +1,2 @@
-# CCS249-EXERCISE-6-CONSTANTINO-TORREVERDE
+# Natural Language Processing (CCS 249 )
+### Exercise for Unit 6
